@@ -28,7 +28,7 @@ See the SQL code in the following link for the creation of this view: [view buil
 - Assigned customers to High, Mid, and Low-value tier segments
 - Calculated key metrics: total revenue
 
-Query: [1_cohort_analysis](/1_cohort_analysis.sql)
+Query: [Customer segmentation](/1_cohort_analysis.sql)
 
 **Visualisation**
 ![Customer segmentation analysis](/images/1_customer_segementation.png)
@@ -49,7 +49,7 @@ Query: [1_cohort_analysis](/1_cohort_analysis.sql)
 - Cohorts were grouped by year of first purchase
 - Analysed customer retention at a cohort level
 
-Query: [2_cohort_analysis](/2_cohort_analysis.sql)
+Query: [Cohort analysis](/2_cohort_analysis.sql)
 
 
 **Visualisation**
